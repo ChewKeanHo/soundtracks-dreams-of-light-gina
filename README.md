@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Dreams of Light - Gina | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+All right, last track for the fun exploration. Enjoy this Celtic new age vocal
+track!
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Dreams-of-Light-Gina.mp3
+  Size: 11157504        Blocks: 21792      IO Block: 4096   regular file
+Device: 253,2   Inode: 40765510    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-11 12:06:23.922841961 +0800
+Modify: 2025-11-11 12:05:58.782716222 +0800
+Change: 2025-11-11 12:05:58.782716222 +0800
+ Birth: 2025-05-31 15:05:38.037372507 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-06-21
+On YouTube since : 2025-07-28
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=SjRXaQwp010)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Dreams of Light - Gina
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-dreams-of-light-gina
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
